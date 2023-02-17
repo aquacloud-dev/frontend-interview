@@ -49,6 +49,7 @@ A few key points:
 
 ### 👉 Bonus Points
 
+- Implement jokes search 
 - Your code follows a mobile first approach
 - The utils are documented according to the [`TSDoc`][tsdoc] standard
 - You can choose to implement pagination or infinite scroll
